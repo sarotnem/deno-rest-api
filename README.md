@@ -6,7 +6,7 @@ A simple REST API developed with [Deno](https://deno.land/), TypeScript and Oak 
 
 `deno run --allow-net server.ts`
 
-It is recommended to use [denon](https://github.com/denosaurs/denon) to watch the files for changes and hot reloading of the server. After installing denon run:
+It is recommended to use [denon](https://github.com/denosaurs/denon) to watch the files for changes and enable hot reload. After installing denon run:
 
 `denon run --allow-net server.ts`
 
